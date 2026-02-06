@@ -1,0 +1,1 @@
+Keeping this all on one file. This is not to be perfect or really organized. Just want a place where I can keep my solutions while I learn c++. If I start getting over a certain number of solutions, I'll move each problem and test case to individual files.
